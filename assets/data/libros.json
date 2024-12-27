@@ -1,0 +1,185 @@
+{
+    "libros": [
+      {
+        "id": "libro1",
+        "titulo": "1984",
+        "autor": {
+          "nombre": "George Orwell",
+          "nacionalidad": "Británico",
+          "año_nacimiento": 1903,
+          "año_muerte": 1950
+        },
+        "año": 1949,
+        "género": "Distopía",
+        "descripcion": "Una novela sobre un futuro distópico donde el mundo es gobernado por regímenes totalitarios.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/1984.jpg",
+          "páginas": 328,
+          "editorial": "Secker & Warburg"
+        }
+      },
+      {
+        "id": "libro2",
+        "titulo": "Matar a un ruiseñor",
+        "autor": {
+          "nombre": "Harper Lee",
+          "nacionalidad": "Estadounidense",
+          "año_nacimiento": 1926,
+          "año_muerte": 2016
+        },
+        "año": 1960,
+        "género": "Ficción",
+        "descripcion": "Una novela sobre la injusticia racial en el sur profundo de Estados Unidos.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/ruise%C3%B1or.jpg",
+          "páginas": 281,
+          "editorial": "J.B. Lippincott & Co."
+        }
+      },
+      {
+        "id": "libro3",
+        "titulo": "Orgullo y prejuicio",
+        "autor": {
+          "nombre": "Jane Austen",
+          "nacionalidad": "Británica",
+          "año_nacimiento": 1775,
+          "año_muerte": 1817
+        },
+        "año": 1813,
+        "género": "Romance",
+        "descripcion": "Una novela clásica sobre los modales y las maquinaciones matrimoniales de la clase media británica a finales del siglo XVIII.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/orgullo.jpg",
+          "páginas": 279,
+          "editorial": "T. Egerton, Whitehall"
+        }
+      },
+      {
+        "id": "libro4",
+        "titulo": "El gran Gatsby",
+        "autor": {
+          "nombre": "F. Scott Fitzgerald",
+          "nacionalidad": "Estadounidense",
+          "año_nacimiento": 1896,
+          "año_muerte": 1940
+        },
+        "año": 1925,
+        "género": "Ficción",
+        "descripcion": "Una novela sobre el sueño americano y los años 20 en Estados Unidos.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/gatsby.jpeg",
+          "páginas": 218,
+          "editorial": "Charles Scribner's Sons"
+        }
+      },
+      {
+        "id": "libro5",
+        "titulo": "Moby Dick",
+        "autor": {
+          "nombre": "Herman Melville",
+          "nacionalidad": "Estadounidense",
+          "año_nacimiento": 1819,
+          "año_muerte": 1891
+        },
+        "año": 1851,
+        "género": "Aventura",
+        "descripcion": "Una novela sobre el viaje del barco ballenero Pequod.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/moby-dick.webp",
+          "páginas": 635,
+          "editorial": "Harper & Brothers"
+        }
+      },
+      {
+        "id": "libro6",
+        "titulo": "Guerra y paz",
+        "autor": {
+          "nombre": "León Tolstói",
+          "nacionalidad": "Ruso",
+          "año_nacimiento": 1828,
+          "año_muerte": 1910
+        },
+        "año": 1869,
+        "género": "Histórico",
+        "descripcion": "Una novela que narra la historia de la invasión francesa a Rusia.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/guerra.jpg",
+          "páginas": 1225,
+          "editorial": "The Russian Messenger"
+        }
+      },
+      {
+        "id": "libro7",
+        "titulo": "El guardián entre el centeno",
+        "autor": {
+          "nombre": "J.D. Salinger",
+          "nacionalidad": "Estadounidense",
+          "año_nacimiento": 1919,
+          "año_muerte": 2010
+        },
+        "año": 1951,
+        "género": "Ficción",
+        "descripcion": "Una novela sobre las experiencias de un joven en la ciudad de Nueva York.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/el_guardian.jpg",
+          "páginas": 277,
+          "editorial": "Little, Brown and Company"
+        }
+      },
+      {
+        "id": "libro8",
+        "titulo": "El hobbit",
+        "autor": {
+          "nombre": "J.R.R. Tolkien",
+          "nacionalidad": "Británico",
+          "año_nacimiento": 1892,
+          "año_muerte": 1973
+        },
+        "año": 1937,
+        "género": "Fantasía",
+        "descripcion": "Una novela de fantasía sobre las aventuras de Bilbo Bolsón.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/hobbit.jpg",
+          "páginas": 310,
+          "editorial": "George Allen & Unwin"
+        }
+      },
+      {
+        "id": "libro9",
+        "titulo": "Un mundo feliz",
+        "autor": {
+          "nombre": "Aldous Huxley",
+          "nacionalidad": "Británico",
+          "año_nacimiento": 1894,
+          "año_muerte": 1963
+        },
+        "año": 1932,
+        "género": "Distopía",
+        "descripcion": "Una novela sobre una sociedad futura distópica basada en la ciencia y la tecnología.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/mfeliz.jpg",
+          "páginas": 311,
+          "editorial": "Chatto & Windus"
+        }
+      },
+      {
+        "id": "libro10",
+        "titulo": "La Odisea",
+        "autor": {
+          "nombre": "Homero",
+          "nacionalidad": "Griego",
+          "año_nacimiento": -800,
+          "año_muerte": -701
+        },
+        "año": -800,
+        "género": "Épico",
+        "descripcion": "Un poema épico sobre el viaje de Odiseo.",
+        "detalles": {
+          "imagen_portada": "https://raw.githubusercontent.com/jritsqmet/web-api/main/assets/images/api-libros/odisea.jpg",
+          "páginas": 541,
+          "editorial": "Ancient Greece"
+        }
+      }
+    ]
+  }
+  
